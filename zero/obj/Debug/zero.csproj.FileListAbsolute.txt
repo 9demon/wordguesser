@@ -1,0 +1,6 @@
+C:\Users\demon\source\repos\zero\zero\bin\Debug\zero.exe.config
+C:\Users\demon\source\repos\zero\zero\bin\Debug\zero.exe
+C:\Users\demon\source\repos\zero\zero\bin\Debug\zero.pdb
+C:\Users\demon\source\repos\zero\zero\obj\Debug\zero.csproj.CoreCompileInputs.cache
+C:\Users\demon\source\repos\zero\zero\obj\Debug\zero.exe
+C:\Users\demon\source\repos\zero\zero\obj\Debug\zero.pdb
